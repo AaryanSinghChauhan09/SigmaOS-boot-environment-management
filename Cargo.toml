@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-boot-environment-management"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS boot-environment-management component - declarative_config"
+
+[lib]
+name = "boot_environment_management"
+path = "src/lib.rs"
