@@ -3,7 +3,7 @@ name = "SigmaOS-boot-environment-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "boot-environment-management component"
+description = "Boot Environment Management"
 upstream = []
 
 [contract]
